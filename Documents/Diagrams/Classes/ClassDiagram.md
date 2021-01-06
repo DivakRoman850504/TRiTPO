@@ -1,3 +1,3 @@
 ## Диаграмма классов
 
-![](https://github.com/DivakRoman850504/TRiTPO/Documents/Diagrams/Classes/ClassDiagram.png)
+![](https://github.com/DivakRoman850504/TRiTPO/blob/master/Documents/Diagrams/Classes/ClassDiagram.png)
