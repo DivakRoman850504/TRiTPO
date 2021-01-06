@@ -1,6 +1,6 @@
 ## Варианты использования
 
-![(pict)](https://github.com/DivakRoman850504/TRiTPO/Documents/Diagrams/UseCase/UseCase.png)
+![(pict)](https://github.com/DivakRoman850504/TRiTPO/blob/master/Documents/Diagrams/UseCase/UseCase.png)
 
 ## Содержание
 
