@@ -54,10 +54,10 @@
 * Для пользователя интерфейс будет представлен в качестве дилогового окна.
 
 ## 5 Дизайн высокого уровня <a name="5"></a>
-* [Главное окно](https://github.com/DivakRoman850504/TRiTPO\Documents\Mockup\Mockup.png)
+* [Главное окно](https://github.com/DivakRoman850504/TRiTPO/blob/master/Documents/Mockup/Mockup.png)
 
 ## 6 Диаграмма классов <a name="6"></a>
-![Диаграмма классов](https://github.com/DivakRoman850504/TRiTPO\Documents\Diagrams\Classes/ClassDiagram.png)
+![Диаграмма классов](https://github.com/DivakRoman850504/TRiTPO/blob/master/Documents/Diagrams/Classes/ClassDiagram.png)
 
 ## 7 Use cases <a name="7"></a>
-![use case](https://github.com/DivakRoman850504/TRiTPO\Documents\Diagrams\UseCase/UseCase.png)
+![use case](https://github.com/DivakRoman850504/TRiTPO/blob/master/Documents/Diagrams/UseCase/UseCase.png)
